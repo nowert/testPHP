@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_get_product" value="name:pro_id;datatype:int,name:pro_nm;datatype:string,name:pro_detail;datatype:blob,name:pro_price;datatype:real,name:pro_unit;datatype:int,name:pro_pic;datatype:string,name:pro_type;datatype:int" />
+</info>
